@@ -16,7 +16,7 @@ A work in progress into bringing airy weather icons to everyone. Crafted by Haro
 
 <h3>Questions</h3>
 <p>
-If you have questions regarding the icon pack, consider asking in the [Discussion](https://github.com/HaroleDev/airycons/discussions) tab.
+If you have questions regarding the icon pack, consider asking in the <a href="https://github.com/HaroleDev/airycons/discussions">Discussion</a> tab.
 </p>
 
 ---
