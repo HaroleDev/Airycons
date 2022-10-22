@@ -11,7 +11,7 @@ A work in progress into bringing airy weather icons to everyone. Crafted by Haro
 <ul>
     <li>Icons are designed in Figma. ( :/ )</li>
     <li>Icons are exported into plain SVG + 6 sizes for PNG.</li>
-    <li>Cleaning up the SVG files. (not yet)</li>
+    <li>Correcting the SVG files. (not yet)</li>
 </ul>
 
 <h3>Questions</h3>
