@@ -7,14 +7,19 @@
 A work in progress into bringing airy weather icons to everyone. Crafted by Harole.
 </p>
 
-<h3>Process</h3>
+<figure align="center" title="Airycons' table of icons">
+    <img src="./assets/previews/Airycons%20Preview_normalquality.png" width="1280">
+    <p>Airycons' table of icons</p>
+</figure>
+
+<h2>Process</h2>
 <ul>
     <li>Icons are designed in Figma. ( :/ )</li>
     <li>Icons are exported into plain SVG + 6 sizes for PNG.</li>
     <li>Correcting the SVG files. (not yet)</li>
 </ul>
 
-<h3>Questions</h3>
+<h2>Questions</h2>
 <p>
 If you have questions regarding the icon pack, consider asking in the <a href="https://github.com/HaroleDev/airycons/discussions">Discussion</a> tab.
 </p>
