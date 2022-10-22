@@ -9,7 +9,7 @@ A work in progress into bringing airy weather icons to everyone. Crafted by Haro
 
 <figure align="center" title="Airycons' table of icons">
     <img src="./assets/previews/Airycons%20Preview_normalquality.png" width="1280">
-    <p>Airycons' table of icons</p>
+    <p align="center">Airycons' table of icons</p>
 </figure>
 
 <h2>Process</h2>
