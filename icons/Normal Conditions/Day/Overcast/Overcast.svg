@@ -23,7 +23,7 @@
 <circle cx="13" cy="6" r="2" fill="url(#paint6_radial_1616_1543)"/>
 <circle cx="13" cy="6" r="2" fill="url(#paint7_radial_1616_1543)"/>
 <circle cx="13" cy="6" r="2" fill="url(#paint8_radial_1616_1543)"/>
-<path d="M7 8H13V7H8C7.44772 7 7 7.44772 7 8V8Z" fill="#98A4AE"/>
+<path d="M7 8H13V7H8C7.44772 7 7 7.44772 7 8Z" fill="#98A4AE"/>
 <mask id="mask0_1616_1543" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="5" y="4" width="5" height="4">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M8.73244 7C8.90261 6.70583 9 6.36429 9 6C9 4.89543 8.10457 4 7 4C5.89543 4 5 4.89543 5 6C5 7.10457 5.89543 8 7 8H10V7H8.73244Z" fill="white"/>
 </mask>
@@ -89,7 +89,7 @@
 <circle cx="10" cy="10" r="3" fill="url(#paint21_radial_1616_1543)"/>
 <circle cx="10" cy="10" r="3" fill="url(#paint22_radial_1616_1543)"/>
 <circle cx="10" cy="10" r="3" fill="url(#paint23_radial_1616_1543)"/>
-<path d="M3 13H10V12H4C3.44772 12 3 12.4477 3 13V13Z" fill="#98A4AE"/>
+<path d="M3 13H10V12H4C3.44772 12 3 12.4477 3 13Z" fill="#98A4AE"/>
 <mask id="mask3_1616_1543" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="1" y="9" width="6" height="4">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M4.73244 12C4.90261 11.7058 5 11.3643 5 11C5 9.89543 4.10457 9 3 9C1.89543 9 1 9.89543 1 11C1 12.1046 1.89543 13 3 13H7V12H4.73244Z" fill="white"/>
 </mask>

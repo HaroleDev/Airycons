@@ -248,7 +248,7 @@
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feGaussianBlur stdDeviation="0.5" result="effect1_foregroundBlur_1784_1005"/>
 </filter>
-<linearGradient id="paint0_linear_1784_1005" x1="8" y1="1" x2="8" y2="11.2308" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint0_linear_1784_1005" x1="8" y1="1" x2="8" y2="10.5" gradientUnits="userSpaceOnUse">
 <stop stop-color="white"/>
 <stop offset="0.0666667" stop-color="white" stop-opacity="0.991353"/>
 <stop offset="0.133333" stop-color="white" stop-opacity="0.96449"/>

@@ -147,7 +147,7 @@
 </g>
 </g>
 <mask id="mask8_1753_1733" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="1" y="4" width="12" height="8">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M3 8C3 5.79086 4.79086 4 7 4C8.49677 4 9.80152 4.8221 10.4874 6.03939C11.9124 6.2722 13 7.50909 13 9C13 10.6569 11.6569 12 10 12H8H7.04785L7 12.0003L6.95215 12H3C1.89543 12 1 11.1046 1 10C1 8.89543 1.89543 8 3 8Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M3 8C3 5.79086 4.79086 4 7 4C8.49677 4 9.80152 4.8221 10.4874 6.03939C11.9124 6.2722 13 7.50909 13 9C13 10.6569 11.6569 12 10 12H8H7.04794L7 12.0003L6.95206 12H3C1.89543 12 1 11.1046 1 10C1 8.89543 1.89543 8 3 8Z" fill="white"/>
 </mask>
 <g mask="url(#mask8_1753_1733)">
 <g style="mix-blend-mode:color-burn" filter="url(#filter7_f_1753_1733)">
