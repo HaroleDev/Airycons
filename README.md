@@ -1,5 +1,9 @@
 <p align="center">
-    <img src="./assets/logos/logo.svg" width="128" height="128" type="image/svg+xml">
+    <picture>
+        <source media="(prefers-color-scheme: light)" srcset="./assets/logos/logo_light.svg">
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/logos/logo_dark.svg">
+        <img src="./assets/logos/logo_light.svg" width="128" height="128" type="image/svg+xml">
+    </picture>
     <h1 align="center">Airycons (WIP)</h1>
 </p>
 
