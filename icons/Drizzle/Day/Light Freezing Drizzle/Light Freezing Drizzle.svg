@@ -23,7 +23,7 @@
 <circle cx="11" cy="7" r="4" fill="url(#paint6_radial_1722_889)"/>
 <circle cx="11" cy="7" r="4" fill="url(#paint7_radial_1722_889)"/>
 <circle cx="11" cy="7" r="4" fill="url(#paint8_radial_1722_889)"/>
-<path d="M4 11H11V10H5C4.44772 10 4 10.4477 4 11Z" fill="#C0D0F0"/>
+<path d="M4 11H11V10H5C4.44772 10 4 10.4477 4 11V11Z" fill="#C0D0F0"/>
 <mask id="mask0_1722_889" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="1" y="5" width="7" height="6">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M6.23611 10C6.71115 9.46924 7 8.76835 7 8C7 6.34315 5.65685 5 4 5C2.34315 5 1 6.34315 1 8C1 9.65685 2.34315 11 4 11H8V10H6.23611Z" fill="white"/>
 </mask>

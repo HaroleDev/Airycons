@@ -48,7 +48,7 @@
 <circle cx="12" cy="10" r="2" fill="url(#paint12_radial_1783_909)"/>
 <circle cx="12" cy="10" r="2" fill="url(#paint13_radial_1783_909)"/>
 <circle cx="12" cy="10" r="2" fill="url(#paint14_radial_1783_909)"/>
-<path d="M8.5 12H12V11.5H9C8.72386 11.5 8.5 11.7239 8.5 12Z" fill="#C0D0F0"/>
+<path d="M8.5 12H12V11.5H9C8.72386 11.5 8.5 11.7239 8.5 12V12Z" fill="#C0D0F0"/>
 <mask id="mask1_1783_909" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="7" y="9" width="4" height="3">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M9.61805 11.5C9.85557 11.2346 10 10.8842 10 10.5C10 9.67157 9.32843 9 8.5 9C7.67157 9 7 9.67157 7 10.5C7 11.3284 7.67157 12 8.5 12H10.5V11.5H9.61805Z" fill="white"/>
 </mask>

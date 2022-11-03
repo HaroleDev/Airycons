@@ -23,7 +23,7 @@
 <circle cx="11" cy="7" r="4" fill="url(#paint6_radial_1640_4039)"/>
 <circle cx="11" cy="7" r="4" fill="url(#paint7_radial_1640_4039)"/>
 <circle cx="11" cy="7" r="4" fill="url(#paint8_radial_1640_4039)"/>
-<path d="M4 11H11V10H5C4.44772 10 4 10.4477 4 11Z" fill="#C0D0F0"/>
+<path d="M4 11H11V10H5C4.44772 10 4 10.4477 4 11V11Z" fill="#C0D0F0"/>
 <mask id="mask0_1640_4039" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="1" y="5" width="7" height="6">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M6.23611 10C6.71115 9.46924 7 8.76835 7 8C7 6.34315 5.65685 5 4 5C2.34315 5 1 6.34315 1 8C1 9.65685 2.34315 11 4 11H8V10H6.23611Z" fill="white"/>
 </mask>
@@ -74,25 +74,21 @@
 <g mask="url(#mask2_1640_4039)">
 <g style="mix-blend-mode:color-burn" filter="url(#filter6_f_1640_4039)">
 <rect x="11" y="10" width="1" height="1" rx="0.5" fill="url(#paint19_linear_1640_4039)"/>
-<rect x="11" y="10" width="1" height="1" rx="0.5" fill="url(#pattern20)" fill-opacity="0.25" style="mix-blend-mode:color-burn"/>
-<rect x="11" y="10" width="1" height="1" rx="0.5" fill="url(#paint20_linear_1640_4039)"/>
-<rect x="5" y="10" width="2" height="2" rx="1" fill="url(#paint21_linear_1640_4039)"/>
-<rect x="5" y="10" width="2" height="2" rx="1" fill="url(#pattern21)" fill-opacity="0.25" style="mix-blend-mode:color-burn"/>
-<rect x="5" y="10" width="2" height="2" rx="1" fill="url(#paint22_linear_1640_4039)"/>
+<rect x="5" y="10" width="2" height="2" rx="1" fill="url(#paint20_linear_1640_4039)"/>
 </g>
 </g>
-<rect x="3" y="13" width="1" height="1" rx="0.5" fill="url(#paint23_linear_1640_4039)"/>
-<rect x="3" y="13" width="1" height="1" rx="0.5" fill="url(#pattern22)" fill-opacity="0.25" style="mix-blend-mode:color-burn"/>
-<rect x="3" y="13" width="1" height="1" rx="0.5" fill="url(#paint24_linear_1640_4039)"/>
-<rect x="8" y="12" width="2" height="2" rx="1" fill="url(#paint25_linear_1640_4039)"/>
-<rect x="8" y="12" width="2" height="2" rx="1" fill="url(#pattern23)" fill-opacity="0.25" style="mix-blend-mode:color-burn"/>
-<rect x="8" y="12" width="2" height="2" rx="1" fill="url(#paint26_linear_1640_4039)"/>
-<rect x="11" y="10" width="1" height="1" rx="0.5" fill="url(#paint27_linear_1640_4039)"/>
-<rect x="11" y="10" width="1" height="1" rx="0.5" fill="url(#pattern24)" fill-opacity="0.25" style="mix-blend-mode:color-burn"/>
-<rect x="11" y="10" width="1" height="1" rx="0.5" fill="url(#paint28_linear_1640_4039)"/>
-<rect x="5" y="10" width="2" height="2" rx="1" fill="url(#paint29_linear_1640_4039)"/>
-<rect x="5" y="10" width="2" height="2" rx="1" fill="url(#pattern25)" fill-opacity="0.25" style="mix-blend-mode:color-burn"/>
-<rect x="5" y="10" width="2" height="2" rx="1" fill="url(#paint30_linear_1640_4039)"/>
+<rect x="3" y="13" width="1" height="1" rx="0.5" fill="url(#paint21_linear_1640_4039)"/>
+<rect x="3" y="13" width="1" height="1" rx="0.5" fill="url(#pattern20)" fill-opacity="0.25" style="mix-blend-mode:color-burn"/>
+<rect x="3" y="13" width="1" height="1" rx="0.5" fill="url(#paint22_linear_1640_4039)"/>
+<rect x="8" y="12" width="2" height="2" rx="1" fill="url(#paint23_linear_1640_4039)"/>
+<rect x="8" y="12" width="2" height="2" rx="1" fill="url(#pattern21)" fill-opacity="0.25" style="mix-blend-mode:color-burn"/>
+<rect x="8" y="12" width="2" height="2" rx="1" fill="url(#paint24_linear_1640_4039)"/>
+<rect x="11" y="10" width="1" height="1" rx="0.5" fill="url(#paint25_linear_1640_4039)"/>
+<rect x="11" y="10" width="1" height="1" rx="0.5" fill="url(#pattern22)" fill-opacity="0.25" style="mix-blend-mode:color-burn"/>
+<rect x="11" y="10" width="1" height="1" rx="0.5" fill="url(#paint26_linear_1640_4039)"/>
+<rect x="5" y="10" width="2" height="2" rx="1" fill="url(#paint27_linear_1640_4039)"/>
+<rect x="5" y="10" width="2" height="2" rx="1" fill="url(#pattern23)" fill-opacity="0.25" style="mix-blend-mode:color-burn"/>
+<rect x="5" y="10" width="2" height="2" rx="1" fill="url(#paint28_linear_1640_4039)"/>
 <defs>
 <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="0.533333" height="0.533333">
 <use xlink:href="#image0_1640_4039" transform="scale(0.00833333)"/>
@@ -211,12 +207,6 @@
 <pattern id="pattern23" patternContentUnits="objectBoundingBox" width="1.8" height="1.8">
 <use xlink:href="#image1_1640_4039" transform="scale(0.05)"/>
 </pattern>
-<pattern id="pattern24" patternContentUnits="objectBoundingBox" width="3.6" height="3.6">
-<use xlink:href="#image1_1640_4039" transform="scale(0.1)"/>
-</pattern>
-<pattern id="pattern25" patternContentUnits="objectBoundingBox" width="1.8" height="1.8">
-<use xlink:href="#image1_1640_4039" transform="scale(0.05)"/>
-</pattern>
 <radialGradient id="paint0_radial_1640_4039" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(7 11) rotate(-135) scale(8.48528)">
 <stop offset="0.374007" stop-color="#C0D0F0"/>
 <stop offset="0.539551" stop-color="#C0D0F0" stop-opacity="0.85"/>
@@ -312,51 +302,43 @@
 <stop offset="0.0001" stop-color="#418FDE" stop-opacity="0"/>
 <stop offset="1" stop-color="#418FDE"/>
 </linearGradient>
-<linearGradient id="paint19_linear_1640_4039" x1="11" y1="10" x2="12" y2="11" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint19_linear_1640_4039" x1="11" y1="10" x2="12.1526" y2="10.2277" gradientUnits="userSpaceOnUse">
 <stop stop-color="#8DC8E8"/>
 <stop offset="1" stop-color="#2771D7"/>
 </linearGradient>
-<linearGradient id="paint20_linear_1640_4039" x1="11" y1="10" x2="12" y2="11" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint20_linear_1640_4039" x1="5" y1="10" x2="7.30512" y2="10.4553" gradientUnits="userSpaceOnUse">
+<stop stop-color="#8DC8E8"/>
+<stop offset="1" stop-color="#2771D7"/>
+</linearGradient>
+<linearGradient id="paint21_linear_1640_4039" x1="3" y1="13" x2="4.15256" y2="13.2277" gradientUnits="userSpaceOnUse">
+<stop stop-color="#8DC8E8"/>
+<stop offset="1" stop-color="#2771D7"/>
+</linearGradient>
+<linearGradient id="paint22_linear_1640_4039" x1="3" y1="13" x2="4.15256" y2="13.2277" gradientUnits="userSpaceOnUse">
 <stop stop-color="#8DC8E8"/>
 <stop offset="1" stop-color="#1D78D1" stop-opacity="0"/>
 </linearGradient>
-<linearGradient id="paint21_linear_1640_4039" x1="5" y1="10" x2="7" y2="12" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint23_linear_1640_4039" x1="8" y1="12" x2="10.3051" y2="12.4553" gradientUnits="userSpaceOnUse">
 <stop stop-color="#8DC8E8"/>
 <stop offset="1" stop-color="#2771D7"/>
 </linearGradient>
-<linearGradient id="paint22_linear_1640_4039" x1="5" y1="10" x2="7" y2="12" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint24_linear_1640_4039" x1="8" y1="12" x2="10.3051" y2="12.4553" gradientUnits="userSpaceOnUse">
 <stop stop-color="#8DC8E8"/>
 <stop offset="1" stop-color="#1D78D1" stop-opacity="0"/>
 </linearGradient>
-<linearGradient id="paint23_linear_1640_4039" x1="3" y1="13" x2="4" y2="14" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint25_linear_1640_4039" x1="11" y1="10" x2="12.1526" y2="10.2277" gradientUnits="userSpaceOnUse">
 <stop stop-color="#8DC8E8"/>
 <stop offset="1" stop-color="#2771D7"/>
 </linearGradient>
-<linearGradient id="paint24_linear_1640_4039" x1="3" y1="13" x2="4" y2="14" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint26_linear_1640_4039" x1="11" y1="10" x2="12.1526" y2="10.2277" gradientUnits="userSpaceOnUse">
 <stop stop-color="#8DC8E8"/>
 <stop offset="1" stop-color="#1D78D1" stop-opacity="0"/>
 </linearGradient>
-<linearGradient id="paint25_linear_1640_4039" x1="8" y1="12" x2="10" y2="14" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint27_linear_1640_4039" x1="5" y1="10" x2="7.30512" y2="10.4553" gradientUnits="userSpaceOnUse">
 <stop stop-color="#8DC8E8"/>
 <stop offset="1" stop-color="#2771D7"/>
 </linearGradient>
-<linearGradient id="paint26_linear_1640_4039" x1="8" y1="12" x2="10" y2="14" gradientUnits="userSpaceOnUse">
-<stop stop-color="#8DC8E8"/>
-<stop offset="1" stop-color="#1D78D1" stop-opacity="0"/>
-</linearGradient>
-<linearGradient id="paint27_linear_1640_4039" x1="11" y1="10" x2="12" y2="11" gradientUnits="userSpaceOnUse">
-<stop stop-color="#8DC8E8"/>
-<stop offset="1" stop-color="#2771D7"/>
-</linearGradient>
-<linearGradient id="paint28_linear_1640_4039" x1="11" y1="10" x2="12" y2="11" gradientUnits="userSpaceOnUse">
-<stop stop-color="#8DC8E8"/>
-<stop offset="1" stop-color="#1D78D1" stop-opacity="0"/>
-</linearGradient>
-<linearGradient id="paint29_linear_1640_4039" x1="5" y1="10" x2="7" y2="12" gradientUnits="userSpaceOnUse">
-<stop stop-color="#8DC8E8"/>
-<stop offset="1" stop-color="#2771D7"/>
-</linearGradient>
-<linearGradient id="paint30_linear_1640_4039" x1="5" y1="10" x2="7" y2="12" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint28_linear_1640_4039" x1="5" y1="10" x2="7.30512" y2="10.4553" gradientUnits="userSpaceOnUse">
 <stop stop-color="#8DC8E8"/>
 <stop offset="1" stop-color="#1D78D1" stop-opacity="0"/>
 </linearGradient>

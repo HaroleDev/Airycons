@@ -76,7 +76,7 @@
 <circle cx="7.5" cy="13.5" r="1.5" fill="url(#paint20_radial_1591_2431)"/>
 <circle cx="7.5" cy="13.5" r="1.5" fill="url(#paint21_radial_1591_2431)"/>
 <circle cx="7.5" cy="13.5" r="1.5" fill="url(#paint22_radial_1591_2431)"/>
-<path d="M4 15H7.5V14H5C4.44772 14 4 14.4477 4 15Z" fill="#C0D0F0"/>
+<path d="M4 15H7.5V14H5C4.44772 14 4 14.4477 4 15V15Z" fill="#C0D0F0"/>
 <mask id="mask3_1591_2431" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="3" y="13" width="3" height="2">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M5 14C5 13.4477 4.55228 13 4 13C3.44772 13 3 13.4477 3 14C3 14.5523 3.44772 15 4 15H6V14H5Z" fill="white"/>
 </mask>

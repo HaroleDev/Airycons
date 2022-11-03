@@ -23,7 +23,7 @@
 <circle cx="11" cy="7" r="4" fill="url(#paint6_radial_1798_2225)"/>
 <circle cx="11" cy="7" r="4" fill="url(#paint7_radial_1798_2225)"/>
 <circle cx="11" cy="7" r="4" fill="url(#paint8_radial_1798_2225)"/>
-<path d="M4 11H11V10H5C4.44772 10 4 10.4477 4 11Z" fill="#C0D0F0"/>
+<path d="M4 11H11V10H5C4.44772 10 4 10.4477 4 11V11Z" fill="#C0D0F0"/>
 <mask id="mask0_1798_2225" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="1" y="5" width="7" height="6">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M6.23611 10C6.71115 9.46924 7 8.76835 7 8C7 6.34315 5.65685 5 4 5C2.34315 5 1 6.34315 1 8C1 9.65685 2.34315 11 4 11H8V10H6.23611Z" fill="white"/>
 </mask>
@@ -63,18 +63,14 @@
 </g>
 <g opacity="0.3" filter="url(#filter3_f_1798_2225)">
 <rect x="3" y="13" width="7" height="2" rx="1" fill="url(#paint15_linear_1798_2225)"/>
-<rect x="3" y="13" width="7" height="2" rx="1" fill="url(#pattern20)" fill-opacity="0.25" style="mix-blend-mode:color-burn"/>
-<rect x="3" y="13" width="7" height="2" rx="1" fill="url(#paint16_linear_1798_2225)"/>
-<rect x="5" y="11" width="7" height="2" rx="1" fill="url(#paint17_linear_1798_2225)"/>
-<rect x="5" y="11" width="7" height="2" rx="1" fill="url(#pattern21)" fill-opacity="0.25" style="mix-blend-mode:color-burn"/>
-<rect x="5" y="11" width="7" height="2" rx="1" fill="url(#paint18_linear_1798_2225)"/>
+<rect x="5" y="11" width="7" height="2" rx="1" fill="url(#paint16_linear_1798_2225)"/>
 </g>
-<rect x="3" y="14" width="7" height="1" rx="0.5" fill="url(#paint19_linear_1798_2225)"/>
-<rect x="3" y="14" width="7" height="1" rx="0.5" fill="url(#pattern22)" fill-opacity="0.25" style="mix-blend-mode:color-burn"/>
-<rect x="3" y="14" width="7" height="1" rx="0.5" fill="url(#paint20_linear_1798_2225)"/>
-<rect x="5" y="12" width="7" height="1" rx="0.5" fill="url(#paint21_linear_1798_2225)"/>
-<rect x="5" y="12" width="7" height="1" rx="0.5" fill="url(#pattern23)" fill-opacity="0.25" style="mix-blend-mode:color-burn"/>
-<rect x="5" y="12" width="7" height="1" rx="0.5" fill="url(#paint22_linear_1798_2225)"/>
+<rect x="3" y="14" width="7" height="1" rx="0.5" fill="url(#paint17_linear_1798_2225)"/>
+<rect x="3" y="14" width="7" height="1" rx="0.5" fill="url(#pattern20)" fill-opacity="0.25" style="mix-blend-mode:color-burn"/>
+<rect x="3" y="14" width="7" height="1" rx="0.5" fill="url(#paint18_linear_1798_2225)"/>
+<rect x="5" y="12" width="7" height="1" rx="0.5" fill="url(#paint19_linear_1798_2225)"/>
+<rect x="5" y="12" width="7" height="1" rx="0.5" fill="url(#pattern21)" fill-opacity="0.25" style="mix-blend-mode:color-burn"/>
+<rect x="5" y="12" width="7" height="1" rx="0.5" fill="url(#paint20_linear_1798_2225)"/>
 <defs>
 <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="0.533333" height="0.533333">
 <use xlink:href="#image0_1798_2225" transform="scale(0.00833333)"/>
@@ -166,16 +162,10 @@
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feGaussianBlur stdDeviation="1" result="effect1_foregroundBlur_1798_2225"/>
 </filter>
-<pattern id="pattern20" patternContentUnits="objectBoundingBox" width="0.514286" height="1.8">
-<use xlink:href="#image1_1798_2225" transform="scale(0.0142857 0.05)"/>
-</pattern>
-<pattern id="pattern21" patternContentUnits="objectBoundingBox" width="0.514286" height="1.8">
-<use xlink:href="#image1_1798_2225" transform="scale(0.0142857 0.05)"/>
-</pattern>
-<pattern id="pattern22" patternContentUnits="objectBoundingBox" width="0.514286" height="3.6">
+<pattern id="pattern20" patternContentUnits="objectBoundingBox" width="0.514286" height="3.6">
 <use xlink:href="#image1_1798_2225" transform="scale(0.0142857 0.1)"/>
 </pattern>
-<pattern id="pattern23" patternContentUnits="objectBoundingBox" width="0.514286" height="3.6">
+<pattern id="pattern21" patternContentUnits="objectBoundingBox" width="0.514286" height="3.6">
 <use xlink:href="#image1_1798_2225" transform="scale(0.0142857 0.1)"/>
 </pattern>
 <radialGradient id="paint0_radial_1798_2225" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(7 11) rotate(-135) scale(8.48528)">
@@ -257,31 +247,23 @@
 <stop stop-color="#C5CFDA"/>
 <stop offset="1" stop-color="#98A4AE"/>
 </linearGradient>
-<linearGradient id="paint16_linear_1798_2225" x1="3" y1="13" x2="4.0566" y2="16.6981" gradientUnits="userSpaceOnUse">
-<stop stop-color="#C5CFDA"/>
-<stop offset="1" stop-color="#98A4AE" stop-opacity="0"/>
-</linearGradient>
-<linearGradient id="paint17_linear_1798_2225" x1="5" y1="11" x2="5.17766" y2="13.4873" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint16_linear_1798_2225" x1="5" y1="11" x2="5.17766" y2="13.4873" gradientUnits="userSpaceOnUse">
 <stop stop-color="#C5CFDA"/>
 <stop offset="1" stop-color="#98A4AE"/>
 </linearGradient>
-<linearGradient id="paint18_linear_1798_2225" x1="5" y1="11" x2="6.0566" y2="14.6981" gradientUnits="userSpaceOnUse">
-<stop stop-color="#C5CFDA"/>
-<stop offset="1" stop-color="#98A4AE" stop-opacity="0"/>
-</linearGradient>
-<linearGradient id="paint19_linear_1798_2225" x1="3" y1="14" x2="3.04459" y2="15.2484" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint17_linear_1798_2225" x1="3" y1="14" x2="3.04459" y2="15.2484" gradientUnits="userSpaceOnUse">
 <stop stop-color="#C5CFDA"/>
 <stop offset="1" stop-color="#98A4AE"/>
 </linearGradient>
-<linearGradient id="paint20_linear_1798_2225" x1="3" y1="14" x2="3.28" y2="15.96" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint18_linear_1798_2225" x1="3" y1="14" x2="3.28" y2="15.96" gradientUnits="userSpaceOnUse">
 <stop stop-color="#C5CFDA"/>
 <stop offset="1" stop-color="#98A4AE" stop-opacity="0"/>
 </linearGradient>
-<linearGradient id="paint21_linear_1798_2225" x1="5" y1="12" x2="5.04459" y2="13.2484" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint19_linear_1798_2225" x1="5" y1="12" x2="5.04459" y2="13.2484" gradientUnits="userSpaceOnUse">
 <stop stop-color="#C5CFDA"/>
 <stop offset="1" stop-color="#98A4AE"/>
 </linearGradient>
-<linearGradient id="paint22_linear_1798_2225" x1="5" y1="12" x2="5.28" y2="13.96" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint20_linear_1798_2225" x1="5" y1="12" x2="5.28" y2="13.96" gradientUnits="userSpaceOnUse">
 <stop stop-color="#C5CFDA"/>
 <stop offset="1" stop-color="#98A4AE" stop-opacity="0"/>
 </linearGradient>

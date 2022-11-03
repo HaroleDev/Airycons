@@ -23,7 +23,7 @@
 <circle cx="11" cy="7" r="4" fill="url(#paint6_radial_1638_3157)"/>
 <circle cx="11" cy="7" r="4" fill="url(#paint7_radial_1638_3157)"/>
 <circle cx="11" cy="7" r="4" fill="url(#paint8_radial_1638_3157)"/>
-<path d="M4 11H11V10H5C4.44772 10 4 10.4477 4 11Z" fill="#C0D0F0"/>
+<path d="M4 11H11V10H5C4.44772 10 4 10.4477 4 11V11Z" fill="#C0D0F0"/>
 <mask id="mask0_1638_3157" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="1" y="5" width="7" height="6">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M6.23611 10C6.71115 9.46924 7 8.76835 7 8C7 6.34315 5.65685 5 4 5C2.34315 5 1 6.34315 1 8C1 9.65685 2.34315 11 4 11H8V10H6.23611Z" fill="white"/>
 </mask>
@@ -60,16 +60,14 @@
 <g mask="url(#mask2_1638_3157)">
 <g style="mix-blend-mode:color-burn" filter="url(#filter2_f_1638_3157)">
 <rect x="10" y="10" width="1" height="3" rx="0.5" fill="url(#paint15_linear_1638_3157)"/>
-<rect x="10" y="10" width="1" height="3" rx="0.5" fill="url(#pattern20)" fill-opacity="0.25" style="mix-blend-mode:color-burn"/>
-<rect x="10" y="10" width="1" height="3" rx="0.5" fill="url(#paint16_linear_1638_3157)"/>
 </g>
 </g>
+<rect x="5" y="12" width="1" height="3" rx="0.5" fill="url(#paint16_linear_1638_3157)"/>
+<rect x="5" y="12" width="1" height="3" rx="0.5" fill="url(#pattern20)" fill-opacity="0.25" style="mix-blend-mode:color-burn"/>
 <rect x="5" y="12" width="1" height="3" rx="0.5" fill="url(#paint17_linear_1638_3157)"/>
-<rect x="5" y="12" width="1" height="3" rx="0.5" fill="url(#pattern21)" fill-opacity="0.25" style="mix-blend-mode:color-burn"/>
-<rect x="5" y="12" width="1" height="3" rx="0.5" fill="url(#paint18_linear_1638_3157)"/>
+<rect x="10" y="10" width="1" height="3" rx="0.5" fill="url(#paint18_linear_1638_3157)"/>
+<rect x="10" y="10" width="1" height="3" rx="0.5" fill="url(#pattern21)" fill-opacity="0.25" style="mix-blend-mode:color-burn"/>
 <rect x="10" y="10" width="1" height="3" rx="0.5" fill="url(#paint19_linear_1638_3157)"/>
-<rect x="10" y="10" width="1" height="3" rx="0.5" fill="url(#pattern22)" fill-opacity="0.25" style="mix-blend-mode:color-burn"/>
-<rect x="10" y="10" width="1" height="3" rx="0.5" fill="url(#paint20_linear_1638_3157)"/>
 <defs>
 <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="0.533333" height="0.533333">
 <use xlink:href="#image0_1638_3157" transform="scale(0.00833333)"/>
@@ -162,9 +160,6 @@
 <pattern id="pattern21" patternContentUnits="objectBoundingBox" width="3.6" height="1.2">
 <use xlink:href="#image1_1638_3157" transform="scale(0.1 0.0333333)"/>
 </pattern>
-<pattern id="pattern22" patternContentUnits="objectBoundingBox" width="3.6" height="1.2">
-<use xlink:href="#image1_1638_3157" transform="scale(0.1 0.0333333)"/>
-</pattern>
 <radialGradient id="paint0_radial_1638_3157" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(7 11) rotate(-135) scale(8.48528)">
 <stop offset="0.374007" stop-color="#C0D0F0"/>
 <stop offset="0.539551" stop-color="#C0D0F0" stop-opacity="0.85"/>
@@ -244,23 +239,19 @@
 <stop stop-color="#2771D7"/>
 <stop offset="1" stop-color="#0047BB"/>
 </linearGradient>
-<linearGradient id="paint16_linear_1638_3157" x1="10" y1="10" x2="11" y2="13" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint16_linear_1638_3157" x1="5" y1="12" x2="6" y2="15" gradientUnits="userSpaceOnUse">
 <stop stop-color="#2771D7"/>
-<stop offset="1" stop-color="#0047BB" stop-opacity="0"/>
+<stop offset="1" stop-color="#0047BB"/>
 </linearGradient>
 <linearGradient id="paint17_linear_1638_3157" x1="5" y1="12" x2="6" y2="15" gradientUnits="userSpaceOnUse">
 <stop stop-color="#2771D7"/>
-<stop offset="1" stop-color="#0047BB"/>
-</linearGradient>
-<linearGradient id="paint18_linear_1638_3157" x1="5" y1="12" x2="6" y2="15" gradientUnits="userSpaceOnUse">
-<stop stop-color="#2771D7"/>
 <stop offset="1" stop-color="#0047BB" stop-opacity="0"/>
 </linearGradient>
-<linearGradient id="paint19_linear_1638_3157" x1="10" y1="10" x2="11" y2="13" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint18_linear_1638_3157" x1="10" y1="10" x2="11" y2="13" gradientUnits="userSpaceOnUse">
 <stop stop-color="#2771D7"/>
 <stop offset="1" stop-color="#0047BB"/>
 </linearGradient>
-<linearGradient id="paint20_linear_1638_3157" x1="10" y1="10" x2="11" y2="13" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint19_linear_1638_3157" x1="10" y1="10" x2="11" y2="13" gradientUnits="userSpaceOnUse">
 <stop stop-color="#2771D7"/>
 <stop offset="1" stop-color="#0047BB" stop-opacity="0"/>
 </linearGradient>
