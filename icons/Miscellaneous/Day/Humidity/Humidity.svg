@@ -110,11 +110,11 @@
 <stop stop-color="#2771D7"/>
 <stop offset="1" stop-color="#0047BB"/>
 </linearGradient>
-<linearGradient id="paint8_linear_2009_1452" x1="8" y1="4" x2="8.55959" y2="13.3264" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint8_linear_2009_1452" x1="8" y1="4" x2="13.4591" y2="13.3169" gradientUnits="userSpaceOnUse">
 <stop stop-color="#2771D7"/>
 <stop offset="1" stop-color="#0047BB"/>
 </linearGradient>
-<linearGradient id="paint9_linear_2009_1452" x1="8" y1="4" x2="8.55959" y2="13.3264" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint9_linear_2009_1452" x1="8" y1="4" x2="13.4591" y2="13.3169" gradientUnits="userSpaceOnUse">
 <stop stop-color="#2771D7"/>
 <stop offset="1" stop-color="#0047BB" stop-opacity="0"/>
 </linearGradient>

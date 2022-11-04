@@ -5,7 +5,7 @@
 <path d="M9.75 9.5C9.75 10.52 9.38271 11.328 8.80225 11.8816C8.21999 12.437 7.40882 12.75 6.49984 12.75C4.70181 12.7499 3.25 11.3588 3.25 9.5C3.25 7.65105 4.107 6.24826 5.27247 4.34055C5.31488 4.27112 5.35771 4.20103 5.40091 4.13021C5.589 3.82195 5.72561 3.59818 5.83464 3.43644C5.94756 3.26893 6.01288 3.19633 6.0533 3.16636C6.32822 2.96253 6.67178 2.96253 6.9467 3.16636C6.98712 3.19633 7.05244 3.26893 7.16536 3.43644C7.27439 3.59818 7.411 3.82195 7.59909 4.13021C7.64229 4.20102 7.68512 4.27112 7.72753 4.34054C8.893 6.24826 9.75 7.65105 9.75 9.5Z" stroke="#0047BB" stroke-opacity="0.1" stroke-width="0.5"/>
 <g filter="url(#filter0_i_1982_1353)">
 <mask id="mask0_1982_1353" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="2" y="6" width="9" height="7">
-<path d="M3 7.00024C4.77905 4.92468 8.22102 8.92521 10 7.00083C11.5906 5.28025 10 13.0008 10 13.0008H3C3 13.0008 1.4751 8.77928 3 7.00024Z" fill="white"/>
+<path d="M3 6.99926C4.77905 4.9237 8.22102 8.92423 10 6.99985C11.5906 5.27927 10 12.9999 10 12.9999H3C3 12.9999 1.4751 8.77831 3 6.99926Z" fill="white"/>
 </mask>
 <g mask="url(#mask0_1982_1353)">
 <path d="M6.49983 13C8.43287 13.0001 10 11.6667 10 9.5C10 7.5 9.03281 6 7.8125 4V4C7.43893 3.38774 7.25214 3.08161 7.0956 2.96554C6.73224 2.69613 6.26776 2.69613 5.9044 2.96554C5.74786 3.08161 5.56107 3.38774 5.1875 4V4C3.96719 6 3 7.5 3 9.5C3 11.5 4.56688 12.9999 6.49983 13Z" fill="url(#paint2_linear_1982_1353)"/>
@@ -23,7 +23,7 @@
 <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="0.514286" height="0.327273">
 <use xlink:href="#image0_1982_1353" transform="scale(0.0142857 0.00909091)"/>
 </pattern>
-<filter id="filter0_i_1982_1353" x="3" y="6.38477" width="7" height="7.61523" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_i_1982_1353" x="3" y="6.38379" width="7" height="7.61621" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
