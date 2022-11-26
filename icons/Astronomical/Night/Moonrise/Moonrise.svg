@@ -17,9 +17,9 @@
 <path d="M15 15C15 14.0807 14.8189 13.1705 14.4672 12.3212C14.1154 11.4719 13.5998 10.7003 12.9497 10.0503C12.2997 9.40024 11.5281 8.88463 10.6788 8.53284C9.8295 8.18106 8.91925 8 8 8C7.08075 8 6.17049 8.18106 5.32122 8.53284C4.47194 8.88463 3.70026 9.40024 3.05025 10.0503C2.40024 10.7003 1.88463 11.4719 1.53284 12.3212C1.18106 13.1705 1 14.0807 1 15L8 15H15Z" fill="url(#paint6_linear_1761_1000)"/>
 <path d="M15 15C15 14.0807 14.8189 13.1705 14.4672 12.3212C14.1154 11.4719 13.5998 10.7003 12.9497 10.0503C12.2997 9.40024 11.5281 8.88463 10.6788 8.53284C9.8295 8.18106 8.91925 8 8 8C7.08075 8 6.17049 8.18106 5.32122 8.53284C4.47194 8.88463 3.70026 9.40024 3.05025 10.0503C2.40024 10.7003 1.88463 11.4719 1.53284 12.3212C1.18106 13.1705 1 14.0807 1 15L8 15H15Z" fill="url(#pattern3)" fill-opacity="0.2" style="mix-blend-mode:color-burn"/>
 <path d="M15 15C15 14.0807 14.8189 13.1705 14.4672 12.3212C14.1154 11.4719 13.5998 10.7003 12.9497 10.0503C12.2997 9.40024 11.5281 8.88463 10.6788 8.53284C9.8295 8.18106 8.91925 8 8 8C7.08075 8 6.17049 8.18106 5.32122 8.53284C4.47194 8.88463 3.70026 9.40024 3.05025 10.0503C2.40024 10.7003 1.88463 11.4719 1.53284 12.3212C1.18106 13.1705 1 14.0807 1 15L8 15H15Z" fill="url(#paint7_linear_1761_1000)"/>
-<path d="M6.5 11.5L7.64645 10.3536C7.84171 10.1583 8.15829 10.1583 8.35355 10.3536L9.5 11.5" stroke="url(#paint8_linear_1761_1000)" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M6.5 11.5L7.64645 10.3536C7.84171 10.1583 8.15829 10.1583 8.35355 10.3536L9.5 11.5" stroke="url(#pattern4)" stroke-opacity="0.2" stroke-linecap="round" stroke-linejoin="round" style="mix-blend-mode:color-burn"/>
-<path d="M6.5 11.5L7.64645 10.3536C7.84171 10.1583 8.15829 10.1583 8.35355 10.3536L9.5 11.5" stroke="url(#paint9_linear_1761_1000)" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M8 10L6.5 11.5M8 10L9.5 11.5M8 10V13" stroke="url(#paint8_linear_1761_1000)" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M8 10L6.5 11.5M8 10L9.5 11.5M8 10V13" stroke="url(#pattern4)" stroke-opacity="0.2" stroke-linecap="round" stroke-linejoin="round" style="mix-blend-mode:color-burn"/>
+<path d="M8 10L6.5 11.5M8 10L9.5 11.5M8 10V13" stroke="url(#paint9_linear_1761_1000)" stroke-linecap="round" stroke-linejoin="round"/>
 </g>
 <defs>
 <filter id="filter0_ii_1761_1000" x="0" y="0" width="16" height="16" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
@@ -50,8 +50,8 @@
 <pattern id="pattern3" patternContentUnits="objectBoundingBox" width="0.257143" height="0.257143">
 <use xlink:href="#image0_1761_1000" transform="scale(0.00714286)"/>
 </pattern>
-<pattern id="pattern4" patternContentUnits="objectBoundingBox" width="1.2" height="2.4">
-<use xlink:href="#image0_1761_1000" transform="scale(0.0333333 0.0666667)"/>
+<pattern id="pattern4" patternContentUnits="objectBoundingBox" width="1.2" height="1.2">
+<use xlink:href="#image0_1761_1000" transform="scale(0.0333333)"/>
 </pattern>
 <linearGradient id="paint0_linear_1761_1000" x1="8" y1="1" x2="8" y2="15" gradientUnits="userSpaceOnUse">
 <stop stop-color="#071D49"/>
@@ -85,11 +85,11 @@
 <stop stop-color="#016F4E"/>
 <stop offset="1" stop-color="#072B31" stop-opacity="0"/>
 </linearGradient>
-<linearGradient id="paint8_linear_1761_1000" x1="8" y1="8.5" x2="8" y2="12.5" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint8_linear_1761_1000" x1="8" y1="8.5" x2="8" y2="14" gradientUnits="userSpaceOnUse">
 <stop stop-color="#016F4E"/>
 <stop offset="1" stop-color="#23FDBC"/>
 </linearGradient>
-<linearGradient id="paint9_linear_1761_1000" x1="8" y1="8.5" x2="8" y2="12.5" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint9_linear_1761_1000" x1="8" y1="8.5" x2="8" y2="14" gradientUnits="userSpaceOnUse">
 <stop stop-color="#016F4E"/>
 <stop offset="1" stop-color="#23FDBC" stop-opacity="0"/>
 </linearGradient>
